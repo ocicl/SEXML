@@ -2,9 +2,8 @@
 
 extensible library for outputting XML based on DTDs and s-expressions
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/madnificent/SEXML.git   |
-| commit  | c4db46a  |
-| systems | SEXML |
-|---------+-------------------------------------------|
-
+|---------+----------------------------------------------|
+| source  | git:https://github.com/madnificent/SEXML.git |
+| commit  | c4db46a                                      |
+| systems | sexml sexml-objects                          |
+|---------+----------------------------------------------|
